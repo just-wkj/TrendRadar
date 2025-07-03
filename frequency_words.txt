@@ -92,3 +92,11 @@ l3
 火星
 宇宙
 飞船
+特斯拉
+tesla
+modely
+model3
+
+roo code
+xai
+gemini
